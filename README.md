@@ -7,3 +7,7 @@
 GitHub Pages发布本仓库main分支根目录，无需构建。所有网页图证均随仓库提供；不发布本地研究底稿与Markdown报告。
 
 截图与演示中的商标和界面属于各自权利人，材料用于竞品体验研究，不代表品牌官方观点。
+
+## V2 场景任务版
+
+[打开V2网页](https://fearlllless.github.io/kunling-competitive-report/v2/) · 6条洞察、33个案例；对照案例默认隐藏，可切换显示。V1仍保留在根目录。
